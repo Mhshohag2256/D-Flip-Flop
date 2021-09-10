@@ -1,0 +1,33 @@
+C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_DLatch_block.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_DLatch_block.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shohag_DLatch_block_VHDL
+-- Compiling architecture bdf_type of Shohag_DLatch_block_VHDL
+
+} {} {}} C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_Register_N.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_Register_N.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shohag_Register_N_VHDL
+-- Compiling architecture arch of Shohag_Register_N_VHDL
+
+} {} {}} C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_DLatch_DFlip_Flop_Master_Slave.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_DLatch_DFlip_Flop_Master_Slave.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shohag_DLatch_DFlip_Flop_Master_Slave_VHDL
+-- Compiling architecture bdf_type of Shohag_DLatch_DFlip_Flop_Master_Slave_VHDL
+
+} {} {}} C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_D_Flip_Flop_block.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/altera_lite/16.0/Shohag_Lab4_July15/Shohag_D_Flip_Flop_block.vhd
+Model Technology ModelSim ALTERA vcom 10.4d Compiler 2015.12 Dec 30 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Shohag_D_Flip_Flop_block_VHDL
+-- Compiling architecture bdf_type of Shohag_D_Flip_Flop_block_VHDL
+
+} {} {}}
